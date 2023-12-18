@@ -122,10 +122,10 @@ Severity Index formula = (4 * Fatalities) + (3 * Serious Injuries) + (3 * Minor 
         Assigning a weight based on the average fatalities per accident for given purpose.
 
  
-![png](images/Bottom 10.png)
+![png](images/Bottom10.png)
     
     
-![png](images/Top 10.png)
+![png](images/Top10.png)
     
 
 # Conclusion
