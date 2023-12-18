@@ -121,10 +121,12 @@ Severity Index formula = (4 * Fatalities) + (3 * Serious Injuries) + (3 * Minor 
     Flight Purpose (Weight: 3):
         Assigning a weight based on the average fatalities per accident for given purpose.
 
- 
+
+
+#### Top 10 Low Risk Makes and Models
 ![png](images/Bottom10.png)
     
-    
+#### Top 10 High Risk Makes and Models    
 ![png](images/Top10.png)
     
 
