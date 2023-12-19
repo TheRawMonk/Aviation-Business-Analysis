@@ -2,7 +2,7 @@
 
 ### Project Overview
 ---
-The purpose of this project will be to analyze aviation accident data. The process will be to clean, analysanalyze, and visualize data the purpose of generating insights for business stakeholders.
+The purpose of this project will be to analyze aviation accident data. The process will be to clean, analyze, and visualize data the purpose of generating insights for business stakeholders.
 
 #### Business Problem
 ---
@@ -38,7 +38,7 @@ To answer our first problem we will calculate the mean for fatalities for each p
 ![png](images/MeanFatalByFlightType.png)
     
 
-Viewing  ploting results. This will allow us to show what catagories of business have the least fatalities associated with that business type. After this plotting the results.
+Viewing  plotting results. This will allow us to show what categories of business have the least fatalities associated with that business type. After this plotting the results.
 
     
 ![png](images/DamageByPurposeCount.png)
@@ -51,7 +51,7 @@ Viewing  ploting results. This will allow us to show what catagories of business
 #### What effect on safety do engines have and how much is this effected by weather?
 ---
 
-To answer our second question we will be looking at the percentages of accidents taking place for each weather catagory. We will also be ploting what number of engines is associated with these accidents.
+To answer our second question we will be looking at the percentages of accidents taking place for each weather category. We will also be plotting what number of engines is associated with these accidents.
 
 #### Weather Information
 ---
@@ -147,5 +147,15 @@ Utilizing a severity rating proved highly effective in consolidating the data in
 #### Data Analysis 
 ---
 While this data proved invaluable for analyzing aviation accidents and gaining insights, a more comprehensive set of information is necessary to offer a robust recommendation for a business model. This additional data would encompass the total number of flights for each model, the cost of damages for repair, and the intended locations for business initiation. Despite this need for further details, the gleaned data remains highly beneficial, allowing for valuable recommendations in establishing low-risk aviation businesses.
+
+
+#### Further Data Exploration 
+---
+Further data exploration can be done in [Tableau](https://public.tableau.com/app/profile/joshua.cuellar/viz/LowRiskAircraftassestsforBusinessVenture/Dashboard1?publish=yes)
+
+![png](images/Dashboard.png)
+
+
+
 
 
